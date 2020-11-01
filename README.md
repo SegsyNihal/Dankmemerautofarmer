@@ -14,11 +14,13 @@ Watch this video for the installation process - https://www.youtube.com/watch?v=
 * Random MILLISECOND delay between each typing.
 * Edit predefined command.
 * Add custom commands.
+* Dynamically updates user preferences. 
 * Random sleep duration.
 * Random Sentences that are randomly sent between commands.
 * User-friendly GUI.
 * Highly Customisable.
 * A help page.
+* Saves user preferences. 
 
 What you will be greeted with when you start it.
 <img src = "Front_page.png">
