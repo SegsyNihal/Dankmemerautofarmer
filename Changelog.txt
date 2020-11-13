@@ -1,0 +1,8 @@
+V 1.1
+Fixed the first portion of the scipt running too fast.
+Fixed the custom command not working.
+fixed the user settings not being saved.
+Some minor bug fixes
+
+V 1.0
+Initial Release 
