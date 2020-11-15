@@ -1,3 +1,17 @@
+V 2.0
+Version 2.0 is here!
+
+Version 2.0 brings an automatic updater
+that checks for update at every launch
+of the exe, this should help if dank
+memer makes some slight changes to
+the bot like the maximum amount of coins that
+can be betted as it is hardcoded
+and you had to go install another version manually
+from the github  page, well the updater solves all that :)
+Happy farming!
+
+^^^^^^^Automatic updates^^^^^^^
 V 1.1
 Fixed the first portion of the scipt running too fast.
 Fixed the custom command not working.
@@ -6,3 +20,4 @@ Some minor bug fixes
 
 V 1.0
 Initial Release 
+^^^^^^^Manual updates^^^^^^^^^
