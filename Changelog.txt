@@ -1,3 +1,30 @@
+v 2.1
+lol first auto update that I am publishing hope everyone gets it lol
+
+Version 2.1 brings many changes!
+
+      --Client-side--
+- Better suited for winter theme
+-- Fixed the changes to the blackjack command
+-- fixed settings
+-- Finally fixed cooldowns between and after commands(dank memer had changed the cooldown time)!
+-- Changed the buying bread command to buy cookies instead. yum
+- Increased type time
+-- Fixed auto-updater appending instead of overwriting values
+
+
+    -- Server-side/internal code?--
+- Changed some internal variable names
+- Internal and external refactorization
+- Changed the auto-updater endpoint to only include the version instead of the 
+  full ini syntax 
+- Removed some useless advanced checks 
+- Reworked custom commands
+
+If there are bugs/issues please open an issue at -- https://github.com/Nihalgaming/Dankmemerautofarmer/issues
+
+and merry Christmas! :D
+
 V 2.0
 Version 2.0 is here!
 
