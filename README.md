@@ -17,6 +17,8 @@ Watch this video for the installation process - https://www.youtube.com/watch?v=
 * Dynamically updates user preferences. 
 * Random sleep duration.
 * Random Sentences that are randomly sent between commands.
+* Auto updater that checks for update with the online 
+  source at every launch of the exe.
 * User-friendly GUI.
 * Highly Customisable.
 * A help page.
